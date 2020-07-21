@@ -1,15 +1,70 @@
 # Reading Notes for SEA-201n19
 ## Code 201 Reading Notes 
 
-I will be using this site to document my notes during teh 201 course. While there may not be anything here **at the moment** there _soon_ will be _(by evening of 19July)_
+I will be using this site to document my notes during the 201 course. While there may not be anything here **at the moment** there _soon_ will be _(by evening of 21July)_
 
-- I will hav e a list of all the reading assignments along with the notes for each (will be along with the first set of notes _**Coming soon..._**)
+- I will have a list of all the reading assignments along with the notes for each (will be along with the first set of notes _**Coming soon..._**)
 - I will also include a few other sections:
 1. Links to further information
 2. Links to helpful reading
-3. Referneces
+3. References
 4. Examples 
-5. when applicable i will always include ` all the codes...all the codes are belong to us` 
+5. when applicable i will always include ` all the codes...all the codes are belong to us`\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
 
 
@@ -38,7 +93,7 @@ I will be using this site to document my notes during teh 201 course. While ther
 
 
 
-In answer to your question...yes I am keeping the itmes below as a refernce 
+In answer to your question...yes I am keeping the items below as a reference 
 
 
 
